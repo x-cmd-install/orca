@@ -1,0 +1,72 @@
+about:
+  description: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+  license: MIT
+  homepage: https://onOrca.dev
+  head: 8854b5d
+  archived: false
+  latestVersion: v1.4.197
+  collectedAt: 2026-09-04T05:07:01Z
+timeline:
+  created: 2026-03-17
+  lastCommit: 2026-09-04
+  lastRelease: 2026-09-04
+popularity:
+  star: 61144
+  watcher: 122
+  fork: 4102
+  release: 946
+  contributor: 394
+  pullRequest: 4540
+  issue: 4953
+language:
+  TypeScript: 136093459
+  JavaScript: 4573212
+  Swift: 290842
+  CSS: 245150
+  HCL: 176758
+  HTML: 111656
+  PowerShell: 71420
+  Shell: 63403
+  Python: 51383
+  Ruby: 26271
+  Kotlin: 22918
+  C++: 20771
+  C#: 8386
+  Dockerfile: 5599
+  NSIS: 4318
+  Batchfile: 795
+  VBScript: 745
+totalLine: 141767086
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 45
+    mergedPR: 1894
+    openPR: 1462
+    closedIssue: 477
+    openIssue: 1391
+    commit: 2077
+  last90d:
+    since: 2026-06-06
+    release: 100
+    mergedPR: 5165
+    openPR: 2646
+    closedIssue: 1937
+    openIssue: 2428
+    commit: 7472
+  last180d:
+    since: 2026-03-08
+    release: 100
+    mergedPR: 8910
+    openPR: 2705
+    closedIssue: 2456
+    openIssue: 2497
+    commit: 13167
+  last360d:
+    since: 2025-09-09
+    release: 100
+    mergedPR: 8910
+    openPR: 2705
+    closedIssue: 2456
+    openIssue: 2497
+    commit: 13167
