@@ -4,27 +4,27 @@ about:
     Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
   license: MIT
   homepage: https://onOrca.dev
-  head: b025367
+  head: d9e44a6
   archived: false
   latestVersion: v1.4.197
-  collectedAt: 2026-09-04T20:04:33Z
+  collectedAt: 2026-09-04T20:38:33Z
 timeline:
   created: 2026-03-17
   lastCommit: 2026-09-04
   lastRelease: 2026-09-04
 popularity:
-  star: 61644
+  star: 61658
   watcher: 120
   fork: 4129
   release: 946
   contributor: 395
-  pullRequest: 13522
-  issue: 4999
+  pullRequest: 13526
+  issue: 5000
 language:
-  TypeScript: 136389339
+  TypeScript: 136390480
   JavaScript: 4594984
   Swift: 290842
-  CSS: 245150
+  CSS: 245165
   HCL: 176758
   HTML: 111656
   PowerShell: 71420
@@ -38,71 +38,71 @@ language:
   NSIS: 4318
   Batchfile: 795
   VBScript: 745
-totalBytes: 142084738
+totalBytes: 142085894
 recent:
   last30d:
     since: 2026-08-05
     release: 45
-    mergedPR: 1919
-    openPR: 1498
+    mergedPR: 1920
+    openPR: 1501
     closedIssue: 482
-    openIssue: 1432
-    commit: 2102
+    openIssue: 1433
+    commit: 2103
   last60d:
     since: 2026-07-06
     release: 100
-    mergedPR: 3702
-    openPR: 2389
+    mergedPR: 3703
+    openPR: 2392
     closedIssue: 1379
-    openIssue: 2308
-    commit: 4842
+    openIssue: 2309
+    commit: 4843
   last90d:
     since: 2026-06-06
     release: 100
-    mergedPR: 5190
-    openPR: 2682
+    mergedPR: 5191
+    openPR: 2685
     closedIssue: 1948
-    openIssue: 2463
-    commit: 7497
+    openIssue: 2464
+    commit: 7498
   last180d:
     since: 2026-03-08
     release: 100
-    mergedPR: 8935
-    openPR: 2741
+    mergedPR: 8936
+    openPR: 2744
     closedIssue: 2467
-    openIssue: 2532
-    commit: 13192
+    openIssue: 2533
+    commit: 13193
   last360d:
     since: 2025-09-09
     release: 100
-    mergedPR: 8935
-    openPR: 2741
+    mergedPR: 8936
+    openPR: 2744
     closedIssue: 2467
-    openIssue: 2532
-    commit: 13192
+    openIssue: 2533
+    commit: 13193
   last720d:
     since: 2024-09-14
     release: 100
-    mergedPR: 8935
-    openPR: 2741
+    mergedPR: 8936
+    openPR: 2744
     closedIssue: 2467
-    openIssue: 2532
-    commit: 10112
+    openIssue: 2533
+    commit: 10113
 total:
   release: 946
-  mergedPR: 8936
-  openPR: 2741
+  mergedPR: 8937
+  openPR: 2744
   closedIssue: 2467
-  openIssue: 2532
-  commit: 10112
+  openIssue: 2533
+  commit: 10113
 ---
 path: /home/runner/.x-repo/github.com/stablyai/orca
-collectedAt: 2026-09-04T20:05:15Z
+collectedAt: 2026-09-04T20:39:09Z
 loc:
   TypeScript:
-    code: 2912377
-    comments: 147183
-    blanks: 280413
+    code: 2912393
+    comments: 147188
+    blanks: 280416
     files: 19643
   Tsx:
     code: 455906
@@ -220,9 +220,9 @@ loc:
     blanks: 85
     files: 23
 total:
-  code: 3664033
-  comments: 182181
-  blanks: 335232
+  code: 3664049
+  comments: 182186
+  blanks: 335235
   files: 23212
 ---
 
