@@ -1,0 +1,260 @@
+about:
+  description: "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+  license: MIT
+  homepage: https://onOrca.dev
+  head: d53cbed
+  archived: false
+  latestVersion: "mobile-android-v0.0.48"
+  collectedAt: 2026-09-07T05:09:59Z
+timeline:
+  created: 2026-03-17
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-06
+popularity:
+  star: 62944
+  watcher: 121
+  fork: 4201
+  release: 947
+  contributor: 401
+  pullRequest: 13920
+  issue: 5115
+language:
+  TypeScript: 141445977
+  JavaScript: 4922189
+  Swift: 290842
+  CSS: 245893
+  HCL: 188831
+  HTML: 111656
+  PowerShell: 74215
+  Shell: 64089
+  Python: 51383
+  Ruby: 26271
+  Kotlin: 22918
+  C++: 20771
+  C#: 8386
+  Dockerfile: 6931
+  NSIS: 5497
+  Batchfile: 795
+  VBScript: 745
+totalBytes: 147487389
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 35
+    mergedPR: 2116
+    openPR: 1418
+    closedIssue: 462
+    openIssue: 1408
+    commit: 1738
+  last60d:
+    since: 2026-07-09
+    release: 100
+    mergedPR: 3846
+    openPR: 2379
+    closedIssue: 1348
+    openIssue: 2341
+    commit: 4434
+  last90d:
+    since: 2026-06-09
+    release: 100
+    mergedPR: 5317
+    openPR: 2727
+    closedIssue: 1947
+    openIssue: 2533
+    commit: 7320
+  last180d:
+    since: 2026-03-11
+    release: 100
+    mergedPR: 9241
+    openPR: 2792
+    closedIssue: 2508
+    openIssue: 2607
+    commit: 13498
+  last360d:
+    since: 2025-09-12
+    release: 100
+    mergedPR: 9241
+    openPR: 2792
+    closedIssue: 2508
+    openIssue: 2607
+    commit: 13506
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 9241
+    openPR: 2792
+    closedIssue: 2508
+    openIssue: 2607
+    commit: 10420
+total:
+  release: 947
+  mergedPR: 9242
+  openPR: 2792
+  closedIssue: 2508
+  openIssue: 2607
+  commit: 10420
+---
+path: /home/runner/.x-repo/github.com/stablyai/orca
+collectedAt: 2026-09-07T05:11:43Z
+loc:
+  TypeScript:
+    code: 3017541
+    comments: 156559
+    blanks: 290024
+    files: 20376
+  Tsx:
+    code: 462821
+    comments: 12891
+    blanks: 33884
+    files: 2658
+  JavaScript:
+    code: 120040
+    comments: 6641
+    blanks: 8491
+    files: 661
+  Json:
+    code: 118734
+    comments: 0
+    blanks: 1
+    files: 92
+  Yaml:
+    code: 34730
+    comments: 10
+    blanks: 6314
+    files: 9
+  Css:
+    code: 7743
+    comments: 514
+    blanks: 1169
+    files: 9
+  Swift:
+    code: 6828
+    comments: 98
+    blanks: 758
+    files: 33
+  Hcl:
+    code: 3960
+    comments: 160
+    blanks: 670
+    files: 20
+  PowerShell:
+    code: 1619
+    comments: 92
+    blanks: 144
+    files: 5
+  Sh:
+    code: 1265
+    comments: 196
+    blanks: 170
+    files: 18
+  Python:
+    code: 1156
+    comments: 26
+    blanks: 254
+    files: 3
+  Html:
+    code: 938
+    comments: 16
+    blanks: 38
+    files: 8
+  Cpp:
+    code: 593
+    comments: 97
+    blanks: 109
+    files: 1
+  Kotlin:
+    code: 552
+    comments: 16
+    blanks: 74
+    files: 4
+  Ruby:
+    code: 262
+    comments: 53
+    blanks: 68
+    files: 5
+  CSharp:
+    code: 228
+    comments: 5
+    blanks: 18
+    files: 2
+  Svg:
+    code: 205
+    comments: 7
+    blanks: 5
+    files: 9
+  Dockerfile:
+    code: 169
+    comments: 5
+    blanks: 22
+    files: 6
+  Bash:
+    code: 80
+    comments: 16
+    blanks: 15
+    files: 3
+  Batch:
+    code: 22
+    comments: 2
+    blanks: 4
+    files: 5
+  VBScript:
+    code: 20
+    comments: 0
+    blanks: 4
+    files: 1
+  Xml:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 14048
+    blanks: 3628
+    files: 108
+  Text:
+    code: 0
+    comments: 2439
+    blanks: 85
+    files: 23
+total:
+  code: 3782982
+  comments: 194034
+  blanks: 346170
+  files: 24060
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:11:51+00:00
+  platform:
+    darwin/arm64:
+      name:  orca-macos-arm64.dmg.blockmap
+      url:   https://github.com/stablyai/orca/releases/download/v1.4.197/orca-macos-arm64.dmg.blockmap
+      size:  211010
+      score: 40
+    darwin/amd64:
+      name:  orca-macos-x64.dmg.blockmap
+      url:   https://github.com/stablyai/orca/releases/download/v1.4.197/orca-macos-x64.dmg.blockmap
+      size:  216139
+      score: 40
+    linux/arm64:
+      name:  orca-linux-arm64.AppImage
+      url:   https://github.com/stablyai/orca/releases/download/v1.4.197/orca-linux-arm64.AppImage
+      size:  192960950
+      score: 38
+    linux/amd64:
+      name:  orca-linux.AppImage
+      url:   https://github.com/stablyai/orca/releases/download/v1.4.197/orca-linux.AppImage
+      size:  192817028
+      score: 23
+    win/arm64:
+      name:  orca-windows-setup.exe.blockmap
+      url:   https://github.com/stablyai/orca/releases/download/v1.4.197/orca-windows-setup.exe.blockmap
+      size:  183810
+      score: 25
+    win/amd64:
+      name:  orca-windows-setup.exe.blockmap
+      url:   https://github.com/stablyai/orca/releases/download/v1.4.197/orca-windows-setup.exe.blockmap
+      size:  183810
+      score: 25
