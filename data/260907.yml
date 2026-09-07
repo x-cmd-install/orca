@@ -2,28 +2,28 @@ about:
   description: "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
   license: MIT
   homepage: https://onOrca.dev
-  head: d53cbed
+  head: 1d1b73c
   archived: false
   latestVersion: "mobile-android-v0.0.48"
-  collectedAt: 2026-09-07T05:09:59Z
+  collectedAt: 2026-09-07T19:25:06Z
 timeline:
   created: 2026-03-17
   lastCommit: 2026-09-07
   lastRelease: 2026-09-06
 popularity:
-  star: 62944
-  watcher: 121
-  fork: 4201
+  star: 63424
+  watcher: 122
+  fork: 4225
   release: 947
-  contributor: 401
-  pullRequest: 13920
-  issue: 5115
+  contributor: 403
+  pullRequest: 14015
+  issue: 5150
 language:
-  TypeScript: 141445977
-  JavaScript: 4922189
+  TypeScript: 142319988
+  JavaScript: 5012500
   Swift: 290842
   CSS: 245893
-  HCL: 188831
+  HCL: 203730
   HTML: 111656
   PowerShell: 74215
   Shell: 64089
@@ -36,84 +36,84 @@ language:
   NSIS: 5497
   Batchfile: 795
   VBScript: 745
-totalBytes: 147487389
+totalBytes: 148466610
 recent:
   last30d:
     since: 2026-08-08
     release: 35
-    mergedPR: 2116
-    openPR: 1418
-    closedIssue: 462
-    openIssue: 1408
-    commit: 1738
+    mergedPR: 2161
+    openPR: 1453
+    closedIssue: 470
+    openIssue: 1435
+    commit: 1785
   last60d:
     since: 2026-07-09
     release: 100
-    mergedPR: 3846
-    openPR: 2379
-    closedIssue: 1348
-    openIssue: 2341
-    commit: 4434
+    mergedPR: 3892
+    openPR: 2412
+    closedIssue: 1356
+    openIssue: 2368
+    commit: 4481
   last90d:
     since: 2026-06-09
     release: 100
-    mergedPR: 5317
-    openPR: 2727
-    closedIssue: 1947
-    openIssue: 2533
-    commit: 7320
+    mergedPR: 5363
+    openPR: 2760
+    closedIssue: 1955
+    openIssue: 2560
+    commit: 7367
   last180d:
     since: 2026-03-11
     release: 100
-    mergedPR: 9241
-    openPR: 2792
-    closedIssue: 2508
-    openIssue: 2607
-    commit: 13498
+    mergedPR: 9287
+    openPR: 2825
+    closedIssue: 2516
+    openIssue: 2634
+    commit: 13545
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 9241
-    openPR: 2792
-    closedIssue: 2508
-    openIssue: 2607
-    commit: 13506
+    mergedPR: 9287
+    openPR: 2825
+    closedIssue: 2516
+    openIssue: 2634
+    commit: 13553
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 9241
-    openPR: 2792
-    closedIssue: 2508
-    openIssue: 2607
-    commit: 10420
+    mergedPR: 9287
+    openPR: 2825
+    closedIssue: 2516
+    openIssue: 2634
+    commit: 10466
 total:
   release: 947
-  mergedPR: 9242
-  openPR: 2792
-  closedIssue: 2508
-  openIssue: 2607
-  commit: 10420
+  mergedPR: 9288
+  openPR: 2825
+  closedIssue: 2516
+  openIssue: 2634
+  commit: 10466
 ---
 path: /home/runner/.x-repo/github.com/stablyai/orca
-collectedAt: 2026-09-07T05:11:43Z
+collectedAt: 2026-09-07T19:26:31Z
 loc:
   TypeScript:
-    code: 3017541
-    comments: 156559
-    blanks: 290024
-    files: 20376
+    code: 3035224
+    comments: 158320
+    blanks: 291724
+    files: 20483
   Tsx:
-    code: 462821
-    comments: 12891
-    blanks: 33884
-    files: 2658
+    code: 464614
+    comments: 13079
+    blanks: 34035
+    files: 2666
   JavaScript:
-    code: 120040
-    comments: 6641
-    blanks: 8491
-    files: 661
+    code: 122224
+    comments: 6797
+    blanks: 8658
+    files: 674
   Json:
-    code: 118734
+    code: 118886
     comments: 0
     blanks: 1
     files: 92
@@ -133,9 +133,9 @@ loc:
     blanks: 758
     files: 33
   Hcl:
-    code: 3960
-    comments: 160
-    blanks: 670
+    code: 4121
+    comments: 197
+    blanks: 689
     files: 20
   PowerShell:
     code: 1619
@@ -209,24 +209,24 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 14048
-    blanks: 3628
-    files: 108
+    comments: 14264
+    blanks: 3686
+    files: 109
   Text:
     code: 0
-    comments: 2439
+    comments: 2438
     blanks: 85
     files: 23
 total:
-  code: 3782982
-  comments: 194034
-  blanks: 346170
-  files: 24060
+  code: 3804978
+  comments: 196397
+  blanks: 348270
+  files: 24189
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:11:51+00:00
+  collectedAt: 2026-09-07T19:26:36+00:00
   platform:
     darwin/arm64:
       name:  orca-macos-arm64.dmg.blockmap
