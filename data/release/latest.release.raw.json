@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 690,
       "digest": "sha256:2ead3a79f68f88bfd3d531a6b7361fdcb4bd71701d12a4038a55e4c33663680f",
-      "download_count": 477,
+      "download_count": 497,
       "created_at": "2026-09-04T00:29:54Z",
       "updated_at": "2026-09-04T00:29:54Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/latest-linux-arm64.yml"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 677,
       "digest": "sha256:0b4fdd308a6d33a8b85a420da6b6ec0d057e49ff6701ceb27df26f451cf28412",
-      "download_count": 31413,
+      "download_count": 32391,
       "created_at": "2026-09-04T00:28:53Z",
       "updated_at": "2026-09-04T00:28:53Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/latest-linux.yml"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 796,
       "digest": "sha256:a1960f8827c9c17be05b99b16e29ba46d9f7111ca59b7fa8e271663e547785b5",
-      "download_count": 302123,
+      "download_count": 310878,
       "created_at": "2026-09-04T00:33:01Z",
       "updated_at": "2026-09-04T00:33:01Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/latest-mac.yml"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 343,
       "digest": "sha256:f4e219733efea550e2d1c93a16f6814ba568ae0f1edab165b74c6139f1f2c41d",
-      "download_count": 325003,
+      "download_count": 334644,
       "created_at": "2026-09-04T00:45:13Z",
       "updated_at": "2026-09-04T00:45:13Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/latest.yml"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 202594588,
       "digest": "sha256:3cfd81c80407fc33d17bbca564bda744621500304680bc93cfc18251e5bfd22d",
-      "download_count": 121000,
+      "download_count": 123957,
       "created_at": "2026-09-04T00:32:55Z",
       "updated_at": "2026-09-04T00:33:00Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/Orca-1.4.197-arm64-mac.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 210835,
       "digest": "sha256:aeeae76ad7fcd0e253f27ecd7a5386f16ce9495eeb40b0190838855ccfd897b9",
-      "download_count": 20224,
+      "download_count": 20463,
       "created_at": "2026-09-04T00:32:55Z",
       "updated_at": "2026-09-04T00:32:55Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/Orca-1.4.197-arm64-mac.zip.blockmap"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 208611864,
       "digest": "sha256:c71685c1f153601931cc251db60f5e1271f38b87769820e1b5ec22acea7208f8",
-      "download_count": 98092,
+      "download_count": 100725,
       "created_at": "2026-09-04T00:29:36Z",
       "updated_at": "2026-09-04T00:29:40Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/Orca-1.4.197-mac.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 215127,
       "digest": "sha256:a0d62193202b1c2cf5b5ca26f8f64e2a5f34c39f60a429148244f5099dbf01a3",
-      "download_count": 700,
+      "download_count": 705,
       "created_at": "2026-09-04T00:29:36Z",
       "updated_at": "2026-09-04T00:29:36Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/Orca-1.4.197-mac.zip.blockmap"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 141545025,
       "digest": "sha256:a324a92045198d4b884575b48f410532d92f88ae54369937ed855b069e6a0995",
-      "download_count": 13774,
+      "download_count": 14175,
       "created_at": "2026-09-04T00:28:48Z",
       "updated_at": "2026-09-04T00:28:52Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/orca-ide-1.4.197.x86_64.rpm"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 162285876,
       "digest": "sha256:600a476981b839ba84da438d9b9a040b6877cfc65d015a23900c75d1410f7c19",
-      "download_count": 15294,
+      "download_count": 15726,
       "created_at": "2026-09-04T00:26:59Z",
       "updated_at": "2026-09-04T00:27:03Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/orca-ide_1.4.197_amd64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 157014108,
       "digest": "sha256:2205641bf027beb5cd6331d6c7ad0a469814f618680c1c618ff74f9cdb5ff4eb",
-      "download_count": 197,
+      "download_count": 198,
       "created_at": "2026-09-04T00:27:45Z",
       "updated_at": "2026-09-04T00:27:49Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/orca-ide_1.4.197_arm64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 192817028,
       "digest": "sha256:4bc8462d151ff010faa54c646bb16dcc5474bf664eed5ec5028182d79926416b",
-      "download_count": 20272,
+      "download_count": 20814,
       "created_at": "2026-09-04T00:25:54Z",
       "updated_at": "2026-09-04T00:25:59Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/orca-linux.AppImage"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 202413688,
       "digest": "sha256:df350da3be8e1a85b522347cdc15c234cdcdfe063f150c7f3c791e1bd064139d",
-      "download_count": 109792,
+      "download_count": 112864,
       "created_at": "2026-09-04T00:32:51Z",
       "updated_at": "2026-09-04T00:32:58Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/orca-macos-arm64.dmg"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 208376670,
       "digest": "sha256:f5cd68e986bde700a73cb9dccf97d3ca62ea9fd8ad9b9ed313dc3d2b0ec781b8",
-      "download_count": 98080,
+      "download_count": 100732,
       "created_at": "2026-09-04T00:29:36Z",
       "updated_at": "2026-09-04T00:29:40Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/orca-macos-x64.dmg"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 181320808,
       "digest": "sha256:21c8a31448d1f6d0f5eee5a3a937adf05e140ff3d33679d166fc3dfbcc64f200",
-      "download_count": 65170,
+      "download_count": 66955,
       "created_at": "2026-09-04T00:45:13Z",
       "updated_at": "2026-09-04T00:45:18Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/orca-windows-setup.exe"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 183810,
       "digest": "sha256:670e7bf2a8fabf6760ddf3e736cd56de381cd88d5add4fe1a7c866eba20391ab",
-      "download_count": 13704,
+      "download_count": 13902,
       "created_at": "2026-09-04T00:45:13Z",
       "updated_at": "2026-09-04T00:45:13Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.197/orca-windows-setup.exe.blockmap"
