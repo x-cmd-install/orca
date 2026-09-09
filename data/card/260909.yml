@@ -1,0 +1,231 @@
+about:
+  description: "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+  license: MIT
+  homepage: https://onOrca.dev
+  head: 210ac1f
+  archived: false
+  latestVersion: "v1.4.198"
+  latestRelease: "v1.4.198"
+  latestPrerelease: "mobile-android-v0.0.48"
+  collectedAt: 2026-09-09T05:07:50Z
+timeline:
+  created: 2026-03-17
+  lastCommit: 2026-09-09
+  lastVersion: 2026-09-08
+  lastRelease: 2026-09-08
+  lastPrerelease: 2026-09-06
+popularity:
+  star: 64475
+  watcher: 121
+  fork: 4268
+  release: 948
+  contributor: 406
+  pullRequest: 14271
+  issue: 5237
+language:
+  TypeScript: 143099614
+  JavaScript: 5041039
+  Swift: 290842
+  CSS: 245826
+  HCL: 203730
+  HTML: 112312
+  PowerShell: 74215
+  Shell: 64089
+  Python: 51383
+  Ruby: 26271
+  Kotlin: 22918
+  C++: 20771
+  C#: 8386
+  Dockerfile: 6931
+  NSIS: 5497
+  Batchfile: 795
+  VBScript: 745
+totalBytes: 149275364
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 32
+    mergedPR: 2099
+    openPR: 1486
+    closedIssue: 456
+    openIssue: 1437
+    commit: 1961
+  last60d:
+    since: 2026-07-11
+    release: 100
+    mergedPR: 3853
+    openPR: 2466
+    closedIssue: 1317
+    openIssue: 2400
+    commit: 4657
+  last90d:
+    since: 2026-06-11
+    release: 100
+    mergedPR: 5406
+    openPR: 2844
+    closedIssue: 1945
+    openIssue: 2605
+    commit: 7543
+  last180d:
+    since: 2026-03-13
+    release: 100
+    mergedPR: 9415
+    openPR: 2917
+    closedIssue: 2547
+    openIssue: 2690
+    commit: 13721
+  last360d:
+    since: 2025-09-14
+    release: 100
+    mergedPR: 9415
+    openPR: 2917
+    closedIssue: 2547
+    openIssue: 2690
+    commit: 13729
+  last720d:
+    since: 2024-09-19
+    release: 100
+    mergedPR: 9415
+    openPR: 2917
+    closedIssue: 2547
+    openIssue: 2690
+    commit: 10596
+total:
+  release: 948
+  mergedPR: 9416
+  openPR: 2917
+  closedIssue: 2547
+  openIssue: 2690
+  commit: 10596
+---
+path: /home/runner/.x-repo/github.com/stablyai/orca
+collectedAt: 2026-09-09T05:09:26Z
+loc:
+  TypeScript:
+    code: 3051127
+    comments: 158930
+    blanks: 292555
+    files: 20614
+  Tsx:
+    code: 467417
+    comments: 13118
+    blanks: 34196
+    files: 2689
+  JavaScript:
+    code: 122973
+    comments: 6812
+    blanks: 8677
+    files: 683
+  Json:
+    code: 118940
+    comments: 0
+    blanks: 2
+    files: 92
+  Yaml:
+    code: 34727
+    comments: 10
+    blanks: 6314
+    files: 9
+  Css:
+    code: 7744
+    comments: 511
+    blanks: 1168
+    files: 10
+  Swift:
+    code: 6828
+    comments: 98
+    blanks: 758
+    files: 33
+  Hcl:
+    code: 4121
+    comments: 197
+    blanks: 689
+    files: 20
+  PowerShell:
+    code: 1619
+    comments: 92
+    blanks: 144
+    files: 5
+  Sh:
+    code: 1265
+    comments: 196
+    blanks: 170
+    files: 18
+  Python:
+    code: 1156
+    comments: 26
+    blanks: 254
+    files: 3
+  Html:
+    code: 950
+    comments: 16
+    blanks: 38
+    files: 9
+  Cpp:
+    code: 593
+    comments: 97
+    blanks: 109
+    files: 1
+  Kotlin:
+    code: 552
+    comments: 16
+    blanks: 74
+    files: 4
+  Ruby:
+    code: 262
+    comments: 53
+    blanks: 68
+    files: 5
+  CSharp:
+    code: 228
+    comments: 5
+    blanks: 18
+    files: 2
+  Svg:
+    code: 205
+    comments: 7
+    blanks: 5
+    files: 9
+  Dockerfile:
+    code: 169
+    comments: 5
+    blanks: 22
+    files: 6
+  Bash:
+    code: 80
+    comments: 16
+    blanks: 15
+    files: 3
+  Batch:
+    code: 22
+    comments: 2
+    blanks: 4
+    files: 5
+  VBScript:
+    code: 20
+    comments: 0
+    blanks: 4
+    files: 1
+  Xml:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 14304
+    blanks: 3700
+    files: 110
+  Text:
+    code: 0
+    comments: 2433
+    blanks: 85
+    files: 23
+total:
+  code: 3824514
+  comments: 197093
+  blanks: 349295
+  files: 24355
+---
+
+---
