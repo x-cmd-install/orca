@@ -5,9 +5,9 @@ Orca is the ADE for working with a fleet of parallel agents. Run any coding agen
 - **Upstream**: <https://github.com/stablyai/orca>
 - **Homepage**: <https://onOrca.dev>
 - **Latest release**: `v1.4.198` (2026-09-08)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 63918 · **Forks**: 4238 · **Open issues**: 5194 · **Contributors**: 406
+- **Stars**: 64475 · **Forks**: 4268 · **Open issues**: 5237 · **Contributors**: 406
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/orca> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:13:59Z._
+_Last regenerated: 2026-09-09T05:09:55Z._
