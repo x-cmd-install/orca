@@ -12,6 +12,18 @@ Orca is the ADE for working with a fleet of parallel agents. Run any coding agen
 x install orca
 ```
 
+## Code insight
+
+Total: **3,852,553** lines of code across **24363** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 3,077,190 | 160,601 | 294,828 | 20847 |
+| Tsx | 470,910 | 13,287 | 34,462 | 2718 |
+| JavaScript | 123,870 | 6,826 | 8,707 | 687 |
+| Json | 119,142 | 0 | 1 | 102 |
+| Yaml | 35,142 | 10 | 6,172 | 9 |
+
 ## Source
 
 - **Upstream**: <https://github.com/stablyai/orca>
@@ -23,6 +35,25 @@ x install orca
 - **Latest**: `v1.4.199` (2026-09-09)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 21
+
+## Popularity
+
+- **Stars**: 65,953 · **Forks**: 4,341 · **Open issues**: 5,342 · **Contributors**: 406
+
+## Totals (cumulative)
+
+- **Releases**: 949 · **Merged PRs**: 9467 · **Open PRs**: 2995 · **Closed issues**: 2566 · **Open issues**: 2776 · **Commits**: 10652
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 27 | 2034 | 1475 | 422 | 1431 | 2016 |
+| last60d | 2026-07-13 | 100 | 3809 | 2497 | 1265 | 2457 | 4712 |
+| 90d | 2026-06-13 | 100 | 5391 | 2915 | 1943 | 2680 | 7598 |
+| last180d | 2026-03-15 | 100 | 9466 | 2995 | 2566 | 2776 | 13776 |
+| 360d | 2025-09-16 | 100 | 9466 | 2995 | 2566 | 2776 | 13784 |
+| last720d | 2024-09-21 | 100 | 9466 | 2995 | 2566 | 2776 | 10652 |
 
 ## Release assets
 
@@ -50,34 +81,6 @@ x install orca
 | [orca-windows-setup.exe](https://github.com/stablyai/orca/releases/download/v1.4.199/orca-windows-setup.exe) | 175.3 MiB | `native/win/x64` |
 | [orca-windows-setup.exe.blockmap](https://github.com/stablyai/orca/releases/download/v1.4.199/orca-windows-setup.exe.blockmap) | 181.6 KiB | `native/win/x64` |
 
-## Popularity
-
-- **Stars**: 65,768 · **Forks**: 4,331 · **Open issues**: 5,335 · **Contributors**: 406
-
-## Totals (cumulative)
-
-- **Releases**: 949 · **Merged PRs**: 9452 · **Open PRs**: 2983 · **Closed issues**: 2559 · **Open issues**: 2776 · **Commits**: 10634
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 30 | 2073 | 1528 | 444 | 1486 | 2000 |
-| 90d | 2026-06-12 | 100 | 5396 | 2907 | 1943 | 2682 | 7582 |
-| 360d | 2025-09-15 | 100 | 9451 | 2983 | 2559 | 2776 | 13768 |
-
-## Code size
-
-Total: **3,831,555** lines of code across **24173** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 3,060,304 | 159,617 | 293,350 | 20692 |
-| Tsx | 468,739 | 13,154 | 34,281 | 2697 |
-| JavaScript | 122,980 | 6,814 | 8,677 | 683 |
-| Json | 118,977 | 0 | 1 | 92 |
-| Yaml | 34,739 | 10 | 6,316 | 9 |
-
 ## Improve this data
 
 Install metadata for orca lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `orca` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +90,4 @@ Install metadata for orca lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:54:25Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:04:37Z._
