@@ -2,37 +2,37 @@ about:
   description: "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
   license: MIT
   homepage: https://onOrca.dev
-  head: cf7408a
+  head: 7294915
   archived: false
-  latestVersion: "v1.4.199"
-  latestRelease: "v1.4.199"
+  latestVersion: "v1.4.200"
+  latestRelease: "v1.4.200"
   latestPrerelease: "mobile-android-v0.0.48"
-  collectedAt: 2026-09-11T05:14:32Z
+  collectedAt: 2026-09-11T19:38:27Z
 timeline:
   created: 2026-03-17
   lastCommit: 2026-09-11
-  lastVersion: 2026-09-09
-  lastRelease: 2026-09-09
+  lastVersion: 2026-09-11
+  lastRelease: 2026-09-11
   lastPrerelease: 2026-09-06
 popularity:
-  star: 66138
-  watcher: 121
-  fork: 4357
-  release: 949
+  star: 66696
+  watcher: 120
+  fork: 4383
+  release: 950
   contributor: 406
-  pullRequest: 14469
-  issue: 5380
+  pullRequest: 14556
+  issue: 5415
 language:
-  TypeScript: 145266415
-  JavaScript: 5097121
-  Swift: 298261
+  TypeScript: 145783615
+  JavaScript: 5132439
+  Swift: 290842
   CSS: 245826
-  HCL: 224911
+  HCL: 225087
   HTML: 112312
   PowerShell: 74215
   Shell: 64089
   Python: 51383
-  Ruby: 26759
+  Ruby: 26271
   Kotlin: 22918
   C++: 20771
   Dockerfile: 8651
@@ -40,91 +40,91 @@ language:
   NSIS: 5497
   Batchfile: 795
   VBScript: 745
-totalBytes: 151529055
+totalBytes: 152073842
 recent:
   last30d:
     since: 2026-08-12
-    release: 27
-    mergedPR: 2055
-    openPR: 1485
-    closedIssue: 442
-    openIssue: 1449
-    commit: 2039
+    release: 28
+    mergedPR: 2084
+    openPR: 1530
+    closedIssue: 457
+    openIssue: 1469
+    commit: 2075
   last60d:
     since: 2026-07-13
     release: 100
-    mergedPR: 3830
-    openPR: 2507
-    closedIssue: 1285
-    openIssue: 2475
-    commit: 4735
+    mergedPR: 3859
+    openPR: 2547
+    closedIssue: 1306
+    openIssue: 2489
+    commit: 4771
   last90d:
     since: 2026-06-13
     release: 100
-    mergedPR: 5412
-    openPR: 2925
-    closedIssue: 1963
-    openIssue: 2698
-    commit: 7621
+    mergedPR: 5441
+    openPR: 2962
+    closedIssue: 1986
+    openIssue: 2710
+    commit: 7657
   last180d:
     since: 2026-03-15
     release: 100
-    mergedPR: 9487
-    openPR: 3005
-    closedIssue: 2586
-    openIssue: 2794
-    commit: 13799
+    mergedPR: 9516
+    openPR: 3042
+    closedIssue: 2610
+    openIssue: 2805
+    commit: 13835
   last360d:
     since: 2025-09-16
     release: 100
-    mergedPR: 9487
-    openPR: 3005
-    closedIssue: 2586
-    openIssue: 2794
-    commit: 13807
+    mergedPR: 9516
+    openPR: 3042
+    closedIssue: 2610
+    openIssue: 2805
+    commit: 13843
   last720d:
     since: 2024-09-21
     release: 100
-    mergedPR: 9487
-    openPR: 3005
-    closedIssue: 2586
-    openIssue: 2794
-    commit: 10673
+    mergedPR: 9516
+    openPR: 3042
+    closedIssue: 2610
+    openIssue: 2805
+    commit: 10702
 total:
-  release: 949
-  mergedPR: 9488
-  openPR: 3005
-  closedIssue: 2586
-  openIssue: 2794
-  commit: 10673
+  release: 950
+  mergedPR: 9517
+  openPR: 3042
+  closedIssue: 2610
+  openIssue: 2805
+  commit: 10702
 ---
 path: /home/runner/.x-repo/github.com/stablyai/orca
-collectedAt: 2026-09-11T05:16:09Z
+collectedAt: 2026-09-11T19:40:11Z
 loc:
   TypeScript:
-    code: 3096483
-    comments: 162511
-    blanks: 296563
-    files: 21117
+    code: 3106922
+    comments: 164286
+    blanks: 297539
+    files: 21159
   Tsx:
-    code: 473151
-    comments: 13400
-    blanks: 34668
-    files: 2734
+    code: 472912
+    comments: 13417
+    blanks: 34656
+    files: 2730
   JavaScript:
-    code: 124237
-    comments: 6854
-    blanks: 8727
-    files: 691
+    code: 125070
+    comments: 6888
+    blanks: 8775
+    files: 696
   Json:
-    code: 119266
+    code: 119286
     comments: 0
     blanks: 1
-    files: 105
+    files: 110
   Yaml:
-    code: 35139
+    code: 35142
     comments: 10
-    blanks: 6174
+    blanks: 6172
     files: 9
   Css:
     code: 7744
@@ -132,14 +132,14 @@ loc:
     blanks: 1168
     files: 10
   Swift:
-    code: 6968
-    comments: 99
-    blanks: 768
-    files: 37
+    code: 6828
+    comments: 98
+    blanks: 758
+    files: 33
   Hcl:
-    code: 4572
+    code: 4576
     comments: 257
-    blanks: 806
+    blanks: 807
     files: 23
   PowerShell:
     code: 1619
@@ -213,19 +213,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 15186
-    blanks: 3901
-    files: 114
+    comments: 15366
+    blanks: 3968
+    files: 116
   Text:
     code: 0
-    comments: 2433
-    blanks: 85
-    files: 23
+    comments: 2627
+    blanks: 160
+    files: 31
 total:
-  code: 3878229
-  comments: 201941
-  blanks: 354013
-  files: 24936
+  code: 3889149
+  comments: 204140
+  blanks: 355156
+  files: 24990
 ---
 
 ---
