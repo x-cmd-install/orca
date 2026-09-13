@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 690,
       "digest": "sha256:2ced7140c71d1f8a225d6809dee1808283da456ab96f88f3037d965c03350a59",
-      "download_count": 88,
+      "download_count": 222,
       "created_at": "2026-09-11T06:14:10Z",
       "updated_at": "2026-09-11T06:14:11Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/latest-linux-arm64.yml"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 677,
       "digest": "sha256:72f09dc205fe08a4a2873c8988a9908a75644f592ffbd936d792bf71dfa2ebb0",
-      "download_count": 6784,
+      "download_count": 17984,
       "created_at": "2026-09-11T06:14:12Z",
       "updated_at": "2026-09-11T06:14:13Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/latest-linux.yml"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 796,
       "digest": "sha256:ce17bf4e7d5b774892ec20984970c71ecaf783782c3be3b0c90e67d15ea981c9",
-      "download_count": 57451,
+      "download_count": 169567,
       "created_at": "2026-09-11T06:16:12Z",
       "updated_at": "2026-09-11T06:16:12Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/latest-mac.yml"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 343,
       "digest": "sha256:fa151d61b013cb8c64230e7659439434015d0890693fb9c82c3dd53fafaa7539",
-      "download_count": 62520,
+      "download_count": 204049,
       "created_at": "2026-09-11T06:20:00Z",
       "updated_at": "2026-09-11T06:20:00Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/latest.yml"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 206707591,
       "digest": "sha256:1fb82ba37157c09759c27a3bbce3d127241b6cd87f2e7d2057ff71de6c2df85b",
-      "download_count": 25852,
+      "download_count": 72259,
       "created_at": "2026-09-11T06:16:05Z",
       "updated_at": "2026-09-11T06:16:12Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/Orca-1.4.200-arm64-mac.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 212928,
       "digest": "sha256:550637c318b039637aa443cd6caa69bb3c261ee64f3e30e0ffe820d55282d5b8",
-      "download_count": 6481,
+      "download_count": 14329,
       "created_at": "2026-09-11T06:16:05Z",
       "updated_at": "2026-09-11T06:16:05Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/Orca-1.4.200-arm64-mac.zip.blockmap"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 214734795,
       "digest": "sha256:5fd4c3d6320de27c58f79a8b092abee60cd1f69a2c2460d9c804416fc6c57b4f",
-      "download_count": 18754,
+      "download_count": 56411,
       "created_at": "2026-09-11T06:13:16Z",
       "updated_at": "2026-09-11T06:13:23Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/Orca-1.4.200-mac.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 223466,
       "digest": "sha256:a0fe1eaa97207197fb0761e84de51e8bebf157b28cd3ac8dc51938cea0265407",
-      "download_count": 216,
+      "download_count": 470,
       "created_at": "2026-09-11T06:13:16Z",
       "updated_at": "2026-09-11T06:13:16Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/Orca-1.4.200-mac.zip.blockmap"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 138913565,
       "digest": "sha256:84f31e9ad21705f36dee3f7ac70f86303983084e6d9e8d3d48e75b758d7d4b0c",
-      "download_count": 15,
+      "download_count": 22,
       "created_at": "2026-09-11T06:14:06Z",
       "updated_at": "2026-09-11T06:14:10Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/orca-ide-1.4.200.aarch64.rpm"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 143213413,
       "digest": "sha256:7b687854336fdbd76207052537d3701c263569a445f70bbcb95bf45035f6807e",
-      "download_count": 3219,
+      "download_count": 8421,
       "created_at": "2026-09-11T06:14:08Z",
       "updated_at": "2026-09-11T06:14:12Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/orca-ide-1.4.200.x86_64.rpm"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 165054120,
       "digest": "sha256:511827d5bd9b6d5205abce1749861d698554ef21dd9c09255fa927578d0261e6",
-      "download_count": 3684,
+      "download_count": 9330,
       "created_at": "2026-09-11T06:11:27Z",
       "updated_at": "2026-09-11T06:11:32Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/orca-ide_1.4.200_amd64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 161066168,
       "digest": "sha256:f65f8710bfe5e29b693e246010f36e3669a4a667e123f78104506445bb6eea9e",
-      "download_count": 38,
+      "download_count": 73,
       "created_at": "2026-09-11T06:11:59Z",
       "updated_at": "2026-09-11T06:12:05Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/orca-ide_1.4.200_arm64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 198586840,
       "digest": "sha256:3eb0ff9b111b8384eb9b8fe98d809aef3546f6954817759c882877b471604144",
-      "download_count": 79,
+      "download_count": 146,
       "created_at": "2026-09-11T06:09:56Z",
       "updated_at": "2026-09-11T06:10:03Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/orca-linux-arm64.AppImage"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 196675014,
       "digest": "sha256:c82d9ddf532431e0da51ec5d1899a0e315aabb8e77fce45ecce7fad4733fc96a",
-      "download_count": 5063,
+      "download_count": 12594,
       "created_at": "2026-09-11T06:09:52Z",
       "updated_at": "2026-09-11T06:09:59Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/orca-linux.AppImage"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 206505767,
       "digest": "sha256:462c24e3a90ccec6ae4f2431addb01a98ae579a177eb1894edb4656d125fd872",
-      "download_count": 21445,
+      "download_count": 61795,
       "created_at": "2026-09-11T06:16:00Z",
       "updated_at": "2026-09-11T06:16:10Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/orca-macos-arm64.dmg"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 216494,
       "digest": "sha256:2162bcf8809297f39507de2a7be84360f9a972c21d2621f3833598c99a4961ea",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-09-11T06:16:00Z",
       "updated_at": "2026-09-11T06:16:00Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/orca-macos-arm64.dmg.blockmap"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 214425784,
       "digest": "sha256:d73d15b63f0b3457ff3f00a7cc4a7988fd43c6482a1182bfa3e17f6c3ca6655f",
-      "download_count": 18644,
+      "download_count": 56171,
       "created_at": "2026-09-11T06:13:12Z",
       "updated_at": "2026-09-11T06:13:24Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/orca-macos-x64.dmg"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 223275,
       "digest": "sha256:3be120a441ad51f294ad29ae24c1c5879d7becd73b64cc8bbb24d1d39a850647",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-09-11T06:13:11Z",
       "updated_at": "2026-09-11T06:13:12Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/orca-macos-x64.dmg.blockmap"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 9782231,
       "digest": "sha256:8ec897fd54ceb6b3005d7bdbd5f2e6c058dc47ea5768f6407ff1f6dbe2a98061",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-09-11T06:09:07Z",
       "updated_at": "2026-09-11T06:09:07Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/orca-sourcemaps-v1.4.200.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 183884944,
       "digest": "sha256:34f39ad60b8decd981cc99d98ae013bbcfa0102de618105a54c878706e815cd7",
-      "download_count": 15068,
+      "download_count": 37334,
       "created_at": "2026-09-11T06:20:00Z",
       "updated_at": "2026-09-11T06:20:07Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/orca-windows-setup.exe"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 185377,
       "digest": "sha256:8915804f00784f45d7b37b4c314092fac6e8e5907ef733907105c6048111a844",
-      "download_count": 4196,
+      "download_count": 9003,
       "created_at": "2026-09-11T06:20:00Z",
       "updated_at": "2026-09-11T06:20:00Z",
       "browser_download_url": "https://github.com/stablyai/orca/releases/download/v1.4.200/orca-windows-setup.exe.blockmap"
@@ -798,14 +798,14 @@
   "body": "Thank you so much for using Orca and for your continued support! ❤️\n\nPlease note: It usually takes 48–72 hours for a landed PR to be released (except P0+ fixes). We have many more exciting PRs and features coming in later versions!\n\n## The short version\n\n**Native chat:** Claude subagent activity and Codex background tasks are now visible in chat. Completed turns show changed files, and task updates stream into the composer.\n\n**Orchestration:** Worker-terminal ownership is established at creation. Startup, mobile input, and older federation coordinators have additional recovery safeguards.\n\n**Workspace & browser:** Background browser tabs load on open, and creating a chat preserves the active worktree.\n\n---\n\n## Product experience\n\n### Workspaces, tabs & browser\n\n*Keep the current worktree selected, and trust a newly opened browser tab to be ready when you visit it.*\n\n**Tabs & browser**\n\n* fix(browser): load newly opened background tabs by @brennanb2025 in https://github.com/stablyai/orca/pull/19633\n* Unify tab surface selection across workspace activation by @brennanb2025 in https://github.com/stablyai/orca/pull/19635\n* fix(native-chat): keep worktree active during chat creation by @Jinwoo-H in https://github.com/stablyai/orca/pull/19753\n\n## Agents & workflow\n\n### Native chat\n\n*The conversation gives you a much better read on what an agent did, is doing, and has delegated.*\n\n**Agent activity & results**\n\n* feat(native-chat): show Claude subagent activity on the shared carrier by @brennanb2025 in https://github.com/stablyai/orca/pull/18806\n* feat(native-chat): report Codex background tasks in the chat strip by @brennanb2025 in https://github.com/stablyai/orca/pull/19346\n* Summarize turn file changes and preserve resolved prompt receipts by @brennanb2025 in https://github.com/stablyai/orca/pull/19229\n* Render task checklists with update diffs and a composer progress panel by @brennanb2025 in https://github.com/stablyai/orca/pull/19230\n\n**Composer & controls**\n\n* fix(native-chat): place effort to the right of model picker by @brennanb2025 in https://github.com/stablyai/orca/pull/19617\n* Show picker-selected native chat skills as pills by @brennanb2025 in https://github.com/stablyai/orca/pull/19616\n* fix(native-chat): expand Claude slash commands sent with an attachment by @brennanb2025 in https://github.com/stablyai/orca/pull/19654\n* fix(native-chat): reveal message chrome on keyboard focus, not any focus by @brennanb2025 in https://github.com/stablyai/orca/pull/19426\n* fix(native-chat): keep collapsible chevrons beside their header text by @brennanb2025 in https://github.com/stablyai/orca/pull/19656\n* fix(renderer): align native chat pane layering by @brennanb2025 in https://github.com/stablyai/orca/pull/19626\n\n**Chat & workspace routing**\n\n* Unify native chat and workspace tab command dispatch by @brennanb2025 in https://github.com/stablyai/orca/pull/19621\n* fix(native-chat): unify launch routing and support structured worker placement by @brennanb2025 in https://github.com/stablyai/orca/pull/19431\n\n### Automations\n\n*Workers have a clearer owner from their first moment and are less likely to get stranded during recovery, federation, or mobile use.*\n\n* fix(orchestration): own a worker terminal from creation, not after the boot wait by @Jinwoo-H in https://github.com/stablyai/orca/pull/19608\n* fix(orchestration): fence worker release on mobile keystrokes by @Jinwoo-H in https://github.com/stablyai/orca/pull/19337\n* fix(orchestration): worker-start settles readiness on observed turn start, not write acceptance by @brennanb2025 in https://github.com/stablyai/orca/pull/19423\n* fix(orchestration): unify structured-session status across worktree ps and sidebar by @brennanb2025 in https://github.com/stablyai/orca/pull/19217\n* fix(orchestration): accept a missing Run id from older federation coordinators by @brennanb2025 in https://github.com/stablyai/orca/pull/19689\n* fix(orchestration): file mail from terminals in no Run under an unbound Run by @Jinwoo-H in https://github.com/stablyai/orca/pull/19696\n* test(orchestration): pin the Run-required contract for unbound direct mail by @brennanb2025 in https://github.com/stablyai/orca/pull/19684\n\n## Quality & delivery\n\n*Nothing here changes what you see — it changes how smoothly Orca behaves under real workloads. Expanded below if you want the detail.*\n\n<details>\n<summary><b>Performance: interface, chat & workspaces</b></summary>\n\n* perf: preserve store state on unchanged document titles by @OrcaWin in https://github.com/stablyai/orca/pull/19459\n* perf: index document history workspace and path identities by @OrcaWin in https://github.com/stablyai/orca/pull/19461\n* perf: index unified tabs for browser palette entries by @OrcaWin in https://github.com/stablyai/orca/pull/19464\n* perf: append to owned project source lists without repeated copying by @OrcaWin in https://github.com/stablyai/orca/pull/19465\n* perf: lazily index workspace tabs during terminal binding replay by @OrcaWin in https://github.com/stablyai/orca/pull/19466\n* perf: replay pending chat asks with a FIFO cursor by @OrcaWin in https://github.com/stablyai/orca/pull/19496\n* perf: group chat history sequences lazily within result windows by @OrcaWin in https://github.com/stablyai/orca/pull/19501\n* perf: measure sidebar row geometry once before sorting delete anchors by @OrcaWin in https://github.com/stablyai/orca/pull/19503\n* perf: index discovered skill IDs and names for batch selection by @OrcaWin in https://github.com/stablyai/orca/pull/19507\n* perf: skip fuzzy ranking when exact file matches fill the window by @OrcaWin in https://github.com/stablyai/orca/pull/19509\n* perf: index tab membership when rebasing authoritative sessions by @OrcaWin in https://github.com/stablyai/orca/pull/19510\n* perf: reuse collators when sorting discovered skills by @OrcaWin in https://github.com/stablyai/orca/pull/19440\n* perf: reuse collators when scanning Warp themes by @OrcaWin in https://github.com/stablyai/orca/pull/19441\n* perf: index selected ancestor coverage during sidebar drag by @OrcaWin in https://github.com/stablyai/orca/pull/19443\n* perf: index Resource Manager labels and accumulated workspace rows by @OrcaWin in https://github.com/stablyai/orca/pull/19480\n* perf: scope activation inventory to the owning host and workspace by @OrcaWin in https://github.com/stablyai/orca/pull/19447\n* perf: index closed browser page IDs during focus cleanup by @OrcaWin in https://github.com/stablyai/orca/pull/19449\n* perf: index observable skill installations by locked name by @OrcaWin in https://github.com/stablyai/orca/pull/19451\n* perf(runtime): skip hibernation inventories without completed agents by @nwparker in https://github.com/stablyai/orca/pull/19391\n* perf(workspaces): skip unchanged heartbeat subscriber work by @nwparker in https://github.com/stablyai/orca/pull/19392\n* perf: resolve current-workspace document addresses before catalog scans by @OrcaWin in https://github.com/stablyai/orca/pull/19495\n* perf: materialize only the requested recent plugin audit lines by @OrcaWin in https://github.com/stablyai/orca/pull/19498\n* perf: stop merging OS-opened files at the pending queue cap by @OrcaWin in https://github.com/stablyai/orca/pull/19508\n\n</details>\n\n<details>\n<summary><b>Performance: terminals, tunnels & runtime</b></summary>\n\n* perf: track pane alias singleton or ambiguity without copying buckets by @OrcaWin in https://github.com/stablyai/orca/pull/19479\n* perf: retire exhausted buckets from host-balanced listings by @OrcaWin in https://github.com/stablyai/orca/pull/19493\n* perf: avoid repeated pending SOCKS payload copies by @OrcaWin in https://github.com/stablyai/orca/pull/19439\n* perf(terminal): avoid quadratic status-marker scans in output bursts by @nwparker in https://github.com/stablyai/orca/pull/19373\n* perf: index selected-host SSH leases by PTY by @OrcaWin in https://github.com/stablyai/orca/pull/19467\n* perf: drop oversized diagnostic records before retaining serialized text by @OrcaWin in https://github.com/stablyai/orca/pull/19445\n* perf: bound tool pairing and avoid unused attribution arrays by @OrcaWin in https://github.com/stablyai/orca/pull/19468\n* perf: validate terminal adoption MRU membership with group sets by @OrcaWin in https://github.com/stablyai/orca/pull/19482\n* perf: index terminal neighbor order and remaining membership by @OrcaWin in https://github.com/stablyai/orca/pull/19453\n* perf: count command-line escapes without regex match arrays by @OrcaWin in https://github.com/stablyai/orca/pull/19499\n* perf: check backfill date cardinality before expanding ranges by @OrcaWin in https://github.com/stablyai/orca/pull/19456\n* perf: probe requested pane keys instead of enumerating records by @OrcaWin in https://github.com/stablyai/orca/pull/19494\n* perf(terminal): skip plain text between partial escape sequences by @nwparker in https://github.com/stablyai/orca/pull/19393\n* perf(terminal): release oversized backing strings behind pending controls by @nwparker in https://github.com/stablyai/orca/pull/19396\n* perf(terminal): skip ordinary output in preview control scans by @nwparker in https://github.com/stablyai/orca/pull/19400\n* perf(terminal): own retained tail rows so they stop pinning their chunks by @nwparker in https://github.com/stablyai/orca/pull/19528\n* perf: check tunnel queue capacity before copying frame payloads by @OrcaWin in https://github.com/stablyai/orca/pull/19497\n* perf: stop queued metadata work after watcher cancellation by @OrcaWin in https://github.com/stablyai/orca/pull/19446\n\n</details>\n\n<details>\n<summary><b>Performance: data & integrations</b></summary>\n\n* perf: prune metadata caches only when an entry can expire by @OrcaWin in https://github.com/stablyai/orca/pull/19450\n* perf: skip folder-scope construction for separate repository imports by @OrcaWin in https://github.com/stablyai/orca/pull/19452\n* perf: index usage session breakdowns during aggregation and merge by @OrcaWin in https://github.com/stablyai/orca/pull/19487\n* perf: reuse AI-vault path matchers and query and sort keys by @OrcaWin in https://github.com/stablyai/orca/pull/19469\n* perf: cache AI-vault project attribution by host and cwd by @OrcaWin in https://github.com/stablyai/orca/pull/19470\n* perf: select checks-panel workspace attribution in one pass by @OrcaWin in https://github.com/stablyai/orca/pull/19471\n* perf: cache update timestamps for Linear and Jira result sorting by @OrcaWin in https://github.com/stablyai/orca/pull/19473\n* perf: reuse naturally ordered unique Codex trust ranges by @OrcaWin in https://github.com/stablyai/orca/pull/19492\n* perf: reuse normalized task-page repository selection by @OrcaWin in https://github.com/stablyai/orca/pull/19454\n\n</details>\n\n<details>\n<summary><b>Reliability & maintenance</b></summary>\n\n* test(ci): replace fixed teardown waits with bounded polls by @nwparker in https://github.com/stablyai/orca/pull/19720\n* fix(lint): preserve deliberate collator benchmark baselines by @brennanb2025 in https://github.com/stablyai/orca/pull/19686\n* fix(native-chat): merge duplicate native-chat-types import by @Jinwoo-H in https://github.com/stablyai/orca/pull/19698\n* refactor(ai-vault): split the session scanner into a transcript reader and consumers by @Jinwoo-H in https://github.com/stablyai/orca/pull/19666\n\n</details>\n\n**Full Changelog**: https://github.com/stablyai/orca/compare/v1.4.199...v1.4.200\n\n\n\n\n\n",
   "reactions": {
     "url": "https://api.github.com/repos/stablyai/orca/releases/386815606/reactions",
-    "total_count": 28,
-    "+1": 2,
+    "total_count": 39,
+    "+1": 5,
     "-1": 0,
     "laugh": 0,
-    "hooray": 16,
+    "hooray": 18,
     "confused": 0,
-    "heart": 3,
-    "rocket": 7,
+    "heart": 6,
+    "rocket": 10,
     "eyes": 0
   },
   "mentions_count": 4
