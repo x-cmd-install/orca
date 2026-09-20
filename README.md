@@ -4,7 +4,7 @@
 
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
-![orca](https://repo.x-cmd.io/orca.svg)
+[![x-cmd/install — orca Code Quality Monitoring Repo Card](https://repo.x-cmd.io/orca.svg)](https://x-cmd.com/install/orca)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install orca
 
 ## Code insight
 
-Total: **4,667,919** lines of code across **26765** files in the top 5 languages.
+Total: **4,758,231** lines of code across **27369** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 3,252,186 | 181,169 | 310,506 | 22283 |
-| Json | 731,193 | 0 | 1 | 903 |
-| Tsx | 484,282 | 14,226 | 35,943 | 2785 |
-| JavaScript | 138,467 | 7,941 | 9,416 | 785 |
-| Yaml | 35,638 | 17 | 6,224 | 9 |
+| TypeScript | 3,310,348 | 188,306 | 315,579 | 22747 |
+| Json | 746,219 | 0 | 1 | 934 |
+| Tsx | 492,343 | 15,170 | 36,803 | 2844 |
+| JavaScript | 144,785 | 9,025 | 9,784 | 835 |
+| Yaml | 35,722 | 17 | 6,223 | 9 |
 
 ## Source
 
@@ -32,28 +32,28 @@ Total: **4,667,919** lines of code across **26765** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `v1.4.205` (2026-09-17)
-- **Last commit**: 2026-09-18
+- **Latest**: `mobile-android-v0.0.50` (2026-09-17)
+- **Last commit**: 2026-09-20
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 71,287 · **Forks**: 4,668 · **Open issues**: 5,784 · **Contributors**: 418
+- **Stars**: 72,829 · **Forks**: 4,765 · **Open issues**: 5,873 · **Contributors**: 432
 
 ## Totals (cumulative)
 
-- **Releases**: 954 · **Merged PRs**: 10034 · **Open PRs**: 3229 · **Closed issues**: 2777 · **Open issues**: 3007 · **Commits**: 11224
+- **Releases**: 955 · **Merged PRs**: 10211 · **Open PRs**: 3260 · **Closed issues**: 2851 · **Open issues**: 3022 · **Commits**: 11399
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 23 | 2107 | 1454 | 377 | 1465 | 2266 |
-| last60d | 2026-07-20 | 100 | 4054 | 2593 | 1274 | 2531 | 4840 |
-| 90d | 2026-06-20 | 100 | 5605 | 3100 | 2030 | 2900 | 7563 |
-| last180d | 2026-03-22 | 100 | 10006 | 3229 | 2767 | 3007 | 14176 |
-| 360d | 2025-09-23 | 100 | 10033 | 3229 | 2777 | 3007 | 14400 |
-| last720d | 2024-09-28 | 100 | 10033 | 3229 | 2777 | 3007 | 11224 |
+| 30d | 2026-08-21 | 22 | 2244 | 1400 | 397 | 1424 | 2083 |
+| last60d | 2026-07-22 | 100 | 4083 | 2578 | 1269 | 2482 | 4361 |
+| 90d | 2026-06-22 | 100 | 5701 | 3120 | 2061 | 2906 | 7163 |
+| last180d | 2026-03-24 | 100 | 10140 | 3260 | 2834 | 3022 | 14193 |
+| 360d | 2025-09-25 | 100 | 10210 | 3260 | 2851 | 3022 | 14629 |
+| last720d | 2024-09-30 | 100 | 10210 | 3260 | 2851 | 3022 | 11399 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for orca lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:26:28Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:24:44Z._
