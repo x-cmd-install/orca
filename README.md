@@ -14,15 +14,15 @@ x install orca
 
 ## Code insight
 
-Total: **5,577,046** lines of code across **33304** files in the top 5 languages.
+Total: **5,642,665** lines of code across **33741** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 3,958,703 | 234,034 | 368,356 | 27694 |
-| Json | 771,726 | 0 | 1 | 1088 |
-| Tsx | 596,478 | 19,711 | 45,463 | 3441 |
-| JavaScript | 182,767 | 14,027 | 12,024 | 1072 |
-| Yaml | 36,441 | 15 | 6,277 | 9 |
+| TypeScript | 4,010,706 | 235,428 | 372,265 | 28047 |
+| Json | 772,184 | 0 | 1 | 1089 |
+| Tsx | 608,566 | 19,777 | 45,976 | 3519 |
+| JavaScript | 183,754 | 13,977 | 12,060 | 1077 |
+| Yaml | 36,450 | 15 | 6,278 | 9 |
 
 ## Source
 
@@ -32,54 +32,54 @@ Total: **5,577,046** lines of code across **33304** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `v1.4.222` (2026-10-07)
-- **Last commit**: 2026-10-08
+- **Latest**: `v1.4.223` (2026-10-08)
+- **Last commit**: 2026-10-09
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 87,339 · **Forks**: 5,594 · **Open issues**: 7,311 · **Contributors**: 538
+- **Stars**: 88,118 · **Forks**: 5,640 · **Open issues**: 7,394 · **Contributors**: 540
 
 ## Totals (cumulative)
 
-- **Releases**: 971 · **Merged PRs**: 12048 · **Open PRs**: 4093 · **Closed issues**: 3280 · **Open issues**: 4031 · **Commits**: 13091
+- **Releases**: 972 · **Merged PRs**: 12158 · **Open PRs**: 4175 · **Closed issues**: 3322 · **Open issues**: 4072 · **Commits**: 13188
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 24 | 2572 | 1615 | 538 | 1550 | 2955 |
-| last60d | 2026-08-09 | 56 | 4870 | 2867 | 1205 | 2821 | 5197 |
-| 90d | 2026-07-10 | 100 | 6555 | 3690 | 2099 | 3740 | 7886 |
-| last180d | 2026-04-11 | 100 | 11649 | 4092 | 3190 | 4030 | 15895 |
-| 360d | 2025-10-13 | 100 | 12047 | 4093 | 3280 | 4031 | 16768 |
-| last720d | 2024-10-18 | 100 | 12047 | 4093 | 3280 | 4031 | 13091 |
+| 30d | 2026-09-09 | 24 | 2651 | 1666 | 557 | 1538 | 3057 |
+| last60d | 2026-08-10 | 56 | 4831 | 2914 | 1219 | 2832 | 5299 |
+| 90d | 2026-07-11 | 100 | 6595 | 3765 | 2106 | 3769 | 7988 |
+| last180d | 2026-04-12 | 100 | 11719 | 4174 | 3222 | 4071 | 15997 |
+| 360d | 2025-10-14 | 100 | 12157 | 4175 | 3322 | 4072 | 16870 |
+| last720d | 2024-10-19 | 100 | 12157 | 4175 | 3322 | 4072 | 13188 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [latest-linux-arm64.yml](https://github.com/stablyai/orca/releases/download/v1.4.222/latest-linux-arm64.yml) | 690 B | `native/linux/arm64` |
-| [latest-linux.yml](https://github.com/stablyai/orca/releases/download/v1.4.222/latest-linux.yml) | 677 B | `other` |
-| [latest-mac.yml](https://github.com/stablyai/orca/releases/download/v1.4.222/latest-mac.yml) | 796 B | `other` |
-| [latest.yml](https://github.com/stablyai/orca/releases/download/v1.4.222/latest.yml) | 343 B | `other` |
-| [Orca-1.4.222-arm64-mac.zip](https://github.com/stablyai/orca/releases/download/v1.4.222/Orca-1.4.222-arm64-mac.zip) | 243.1 MiB | `other` |
-| [Orca-1.4.222-arm64-mac.zip.blockmap](https://github.com/stablyai/orca/releases/download/v1.4.222/Orca-1.4.222-arm64-mac.zip.blockmap) | 249.7 KiB | `other` |
-| [Orca-1.4.222-mac.zip](https://github.com/stablyai/orca/releases/download/v1.4.222/Orca-1.4.222-mac.zip) | 251.0 MiB | `other` |
-| [Orca-1.4.222-mac.zip.blockmap](https://github.com/stablyai/orca/releases/download/v1.4.222/Orca-1.4.222-mac.zip.blockmap) | 257.2 KiB | `other` |
-| [orca-ide-1.4.222.aarch64.rpm](https://github.com/stablyai/orca/releases/download/v1.4.222/orca-ide-1.4.222.aarch64.rpm) | 152.5 MiB | `runtime/rpm/aarch64` |
-| [orca-ide-1.4.222.x86_64.rpm](https://github.com/stablyai/orca/releases/download/v1.4.222/orca-ide-1.4.222.x86_64.rpm) | 156.5 MiB | `runtime/rpm/x86_64` |
-| [orca-ide_1.4.222_amd64.deb](https://github.com/stablyai/orca/releases/download/v1.4.222/orca-ide_1.4.222_amd64.deb) | 192.0 MiB | `runtime/deb/amd64` |
-| [orca-ide_1.4.222_arm64.deb](https://github.com/stablyai/orca/releases/download/v1.4.222/orca-ide_1.4.222_arm64.deb) | 187.8 MiB | `runtime/deb/arm64` |
-| [orca-linux-arm64.AppImage](https://github.com/stablyai/orca/releases/download/v1.4.222/orca-linux-arm64.AppImage) | 211.6 MiB | `native/linux/arm64` |
-| [orca-linux.AppImage](https://github.com/stablyai/orca/releases/download/v1.4.222/orca-linux.AppImage) | 209.8 MiB | `other` |
-| [orca-macos-arm64.dmg](https://github.com/stablyai/orca/releases/download/v1.4.222/orca-macos-arm64.dmg) | 242.5 MiB | `native/darwin/arm64` |
-| [orca-macos-arm64.dmg.blockmap](https://github.com/stablyai/orca/releases/download/v1.4.222/orca-macos-arm64.dmg.blockmap) | 259.1 KiB | `native/darwin/arm64` |
-| [orca-macos-x64.dmg](https://github.com/stablyai/orca/releases/download/v1.4.222/orca-macos-x64.dmg) | 250.2 MiB | `native/darwin/x64` |
-| [orca-macos-x64.dmg.blockmap](https://github.com/stablyai/orca/releases/download/v1.4.222/orca-macos-x64.dmg.blockmap) | 267.0 KiB | `native/darwin/x64` |
-| [orca-sourcemaps-v1.4.222.zip](https://github.com/stablyai/orca/releases/download/v1.4.222/orca-sourcemaps-v1.4.222.zip) | 11.6 MiB | `other` |
-| [orca-windows-setup.exe](https://github.com/stablyai/orca/releases/download/v1.4.222/orca-windows-setup.exe) | 209.9 MiB | `native/win/x64` |
-| [orca-windows-setup.exe.blockmap](https://github.com/stablyai/orca/releases/download/v1.4.222/orca-windows-setup.exe.blockmap) | 206.8 KiB | `native/win/x64` |
+| [latest-linux-arm64.yml](https://github.com/stablyai/orca/releases/download/v1.4.223/latest-linux-arm64.yml) | 690 B | `native/linux/arm64` |
+| [latest-linux.yml](https://github.com/stablyai/orca/releases/download/v1.4.223/latest-linux.yml) | 677 B | `other` |
+| [latest-mac.yml](https://github.com/stablyai/orca/releases/download/v1.4.223/latest-mac.yml) | 796 B | `other` |
+| [latest.yml](https://github.com/stablyai/orca/releases/download/v1.4.223/latest.yml) | 343 B | `other` |
+| [Orca-1.4.223-arm64-mac.zip](https://github.com/stablyai/orca/releases/download/v1.4.223/Orca-1.4.223-arm64-mac.zip) | 244.0 MiB | `other` |
+| [Orca-1.4.223-arm64-mac.zip.blockmap](https://github.com/stablyai/orca/releases/download/v1.4.223/Orca-1.4.223-arm64-mac.zip.blockmap) | 250.7 KiB | `other` |
+| [Orca-1.4.223-mac.zip](https://github.com/stablyai/orca/releases/download/v1.4.223/Orca-1.4.223-mac.zip) | 251.9 MiB | `other` |
+| [Orca-1.4.223-mac.zip.blockmap](https://github.com/stablyai/orca/releases/download/v1.4.223/Orca-1.4.223-mac.zip.blockmap) | 258.6 KiB | `other` |
+| [orca-ide-1.4.223.aarch64.rpm](https://github.com/stablyai/orca/releases/download/v1.4.223/orca-ide-1.4.223.aarch64.rpm) | 152.9 MiB | `runtime/rpm/aarch64` |
+| [orca-ide-1.4.223.x86_64.rpm](https://github.com/stablyai/orca/releases/download/v1.4.223/orca-ide-1.4.223.x86_64.rpm) | 156.8 MiB | `runtime/rpm/x86_64` |
+| [orca-ide_1.4.223_amd64.deb](https://github.com/stablyai/orca/releases/download/v1.4.223/orca-ide_1.4.223_amd64.deb) | 192.4 MiB | `runtime/deb/amd64` |
+| [orca-ide_1.4.223_arm64.deb](https://github.com/stablyai/orca/releases/download/v1.4.223/orca-ide_1.4.223_arm64.deb) | 188.2 MiB | `runtime/deb/arm64` |
+| [orca-linux-arm64.AppImage](https://github.com/stablyai/orca/releases/download/v1.4.223/orca-linux-arm64.AppImage) | 212.3 MiB | `native/linux/arm64` |
+| [orca-linux.AppImage](https://github.com/stablyai/orca/releases/download/v1.4.223/orca-linux.AppImage) | 210.4 MiB | `other` |
+| [orca-macos-arm64.dmg](https://github.com/stablyai/orca/releases/download/v1.4.223/orca-macos-arm64.dmg) | 243.3 MiB | `native/darwin/arm64` |
+| [orca-macos-arm64.dmg.blockmap](https://github.com/stablyai/orca/releases/download/v1.4.223/orca-macos-arm64.dmg.blockmap) | 258.0 KiB | `native/darwin/arm64` |
+| [orca-macos-x64.dmg](https://github.com/stablyai/orca/releases/download/v1.4.223/orca-macos-x64.dmg) | 251.1 MiB | `native/darwin/x64` |
+| [orca-macos-x64.dmg.blockmap](https://github.com/stablyai/orca/releases/download/v1.4.223/orca-macos-x64.dmg.blockmap) | 267.2 KiB | `native/darwin/x64` |
+| [orca-sourcemaps-v1.4.223.zip](https://github.com/stablyai/orca/releases/download/v1.4.223/orca-sourcemaps-v1.4.223.zip) | 12.0 MiB | `other` |
+| [orca-windows-setup.exe](https://github.com/stablyai/orca/releases/download/v1.4.223/orca-windows-setup.exe) | 210.5 MiB | `native/win/x64` |
+| [orca-windows-setup.exe.blockmap](https://github.com/stablyai/orca/releases/download/v1.4.223/orca-windows-setup.exe.blockmap) | 207.1 KiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -90,4 +90,4 @@ Install metadata for orca lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:27:43Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:36:30Z._
