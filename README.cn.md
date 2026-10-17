@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 [![x-cmd/install — orca Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/orca.svg?lang=zh)](https://x-cmd.com/install/orca)
 
@@ -14,15 +14,15 @@ x install orca
 
 ## 代码洞察
 
-合计: **5,818,763** 行代码（覆盖前 5 种语言、共 **35175** 个文件）。
+合计: **5,893,880** 行代码（覆盖前 5 种语言、共 **35727** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 4,074,563 | 237,904 | 373,849 | 29090 |
-| Json | 819,668 | 0 | 1 | 1142 |
-| Tsx | 646,212 | 20,571 | 48,224 | 3737 |
-| JavaScript | 207,869 | 13,717 | 12,868 | 1197 |
-| Yaml | 36,905 | 17 | 6,324 | 9 |
+| TypeScript | 4,142,914 | 241,680 | 379,374 | 29579 |
+| Json | 820,242 | 0 | 1 | 1151 |
+| Tsx | 653,130 | 20,671 | 48,558 | 3781 |
+| JavaScript | 209,135 | 13,800 | 12,954 | 1207 |
+| Yaml | 34,900 | 17 | 8,009 | 9 |
 
 ## 源代码
 
@@ -32,28 +32,28 @@ x install orca
 
 ## 发布
 
-- **最新版本**: `v1.4.227` (2026-10-16)
-- **最近提交**: 2026-10-16
+- **最新版本**: `mobile-android-v0.0.57` (2026-10-16)
+- **最近提交**: 2026-10-17
 - **Release 含资产**: 21 个
 
 ## 流行度
 
-- **Star**: 93,680 · **Fork**: 5,976 · **开放 issue**: 8,086 · **贡献者**: 580
+- **Star**: 94,609 · **Fork**: 6,051 · **开放 issue**: 8,215 · **贡献者**: 588
 
 ## 累计统计
 
-- **发布数**: 975 · **已合并 PR**: 13321 · **开放 PR**: 4260 · **已关闭 issue**: 3834 · **开放 issue**: 4252 · **提交数**: 14370
+- **发布数**: 976 · **已合并 PR**: 13701 · **开放 PR**: 4211 · **已关闭 issue**: 3931 · **开放 issue**: 4284 · **提交数**: 14750
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 23 | 3299 | 1820 | 757 | 1632 | 3796 |
-| last60d | 2026-08-17 | 45 | 5504 | 2873 | 1459 | 2803 | 6126 |
-| 90d | 2026-07-18 | 100 | 7418 | 3751 | 2373 | 3810 | 8812 |
-| last180d | 2026-04-19 | 100 | 12660 | 4259 | 3686 | 4251 | 17037 |
-| 360d | 2025-10-21 | 100 | 13319 | 4260 | 3834 | 4252 | 18203 |
-| last720d | 2024-10-26 | 100 | 13319 | 4260 | 3834 | 4252 | 14370 |
+| 30d | 2026-09-17 | 23 | 3601 | 1747 | 811 | 1643 | 4214 |
+| last60d | 2026-08-18 | 45 | 5813 | 2789 | 1520 | 2810 | 6544 |
+| 90d | 2026-07-19 | 100 | 7765 | 3692 | 2455 | 3836 | 9230 |
+| last180d | 2026-04-20 | 100 | 13026 | 4210 | 3779 | 4283 | 17455 |
+| 360d | 2025-10-22 | 100 | 13699 | 4211 | 3931 | 4284 | 18621 |
+| last720d | 2024-10-27 | 100 | 13699 | 4211 | 3931 | 4284 | 14750 |
 
 ## Release 资产
 
@@ -90,4 +90,4 @@ orca 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261016.yml` · 2026-10-16T04:55:41Z._
+_数据快照: `data/card/261017.yml` · 2026-10-17T04:44:28Z._

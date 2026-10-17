@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 [![x-cmd/install — orca Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/orca.svg)](https://x-cmd.com/install/orca)
 
@@ -14,15 +14,15 @@ x install orca
 
 ## Code insight
 
-Total: **5,818,763** lines of code across **35175** files in the top 5 languages.
+Total: **5,893,880** lines of code across **35727** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 4,074,563 | 237,904 | 373,849 | 29090 |
-| Json | 819,668 | 0 | 1 | 1142 |
-| Tsx | 646,212 | 20,571 | 48,224 | 3737 |
-| JavaScript | 207,869 | 13,717 | 12,868 | 1197 |
-| Yaml | 36,905 | 17 | 6,324 | 9 |
+| TypeScript | 4,142,914 | 241,680 | 379,374 | 29579 |
+| Json | 820,242 | 0 | 1 | 1151 |
+| Tsx | 653,130 | 20,671 | 48,558 | 3781 |
+| JavaScript | 209,135 | 13,800 | 12,954 | 1207 |
+| Yaml | 34,900 | 17 | 8,009 | 9 |
 
 ## Source
 
@@ -32,28 +32,28 @@ Total: **5,818,763** lines of code across **35175** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `v1.4.227` (2026-10-16)
-- **Last commit**: 2026-10-16
+- **Latest**: `mobile-android-v0.0.57` (2026-10-16)
+- **Last commit**: 2026-10-17
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 93,680 · **Forks**: 5,976 · **Open issues**: 8,086 · **Contributors**: 580
+- **Stars**: 94,609 · **Forks**: 6,051 · **Open issues**: 8,215 · **Contributors**: 588
 
 ## Totals (cumulative)
 
-- **Releases**: 975 · **Merged PRs**: 13321 · **Open PRs**: 4260 · **Closed issues**: 3834 · **Open issues**: 4252 · **Commits**: 14370
+- **Releases**: 976 · **Merged PRs**: 13701 · **Open PRs**: 4211 · **Closed issues**: 3931 · **Open issues**: 4284 · **Commits**: 14750
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 23 | 3299 | 1820 | 757 | 1632 | 3796 |
-| last60d | 2026-08-17 | 45 | 5504 | 2873 | 1459 | 2803 | 6126 |
-| 90d | 2026-07-18 | 100 | 7418 | 3751 | 2373 | 3810 | 8812 |
-| last180d | 2026-04-19 | 100 | 12660 | 4259 | 3686 | 4251 | 17037 |
-| 360d | 2025-10-21 | 100 | 13319 | 4260 | 3834 | 4252 | 18203 |
-| last720d | 2024-10-26 | 100 | 13319 | 4260 | 3834 | 4252 | 14370 |
+| 30d | 2026-09-17 | 23 | 3601 | 1747 | 811 | 1643 | 4214 |
+| last60d | 2026-08-18 | 45 | 5813 | 2789 | 1520 | 2810 | 6544 |
+| 90d | 2026-07-19 | 100 | 7765 | 3692 | 2455 | 3836 | 9230 |
+| last180d | 2026-04-20 | 100 | 13026 | 4210 | 3779 | 4283 | 17455 |
+| 360d | 2025-10-22 | 100 | 13699 | 4211 | 3931 | 4284 | 18621 |
+| last720d | 2024-10-27 | 100 | 13699 | 4211 | 3931 | 4284 | 14750 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for orca lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:55:40Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:44:27Z._
