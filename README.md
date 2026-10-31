@@ -14,15 +14,15 @@ x install orca
 
 ## Code insight
 
-Total: **6,794,393** lines of code across **40808** files in the top 5 languages.
+Total: **6,862,614** lines of code across **40885** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 4,769,277 | 122,793 | 415,901 | 33998 |
-| Json | 997,156 | 0 | 1 | 1203 |
-| Tsx | 778,855 | 11,065 | 53,255 | 4365 |
-| JavaScript | 180,340 | 5,458 | 11,823 | 1211 |
-| Yaml | 36,543 | 95 | 8,037 | 31 |
+| TypeScript | 4,825,415 | 124,369 | 415,887 | 34063 |
+| Json | 985,823 | 0 | 1 | 1185 |
+| Tsx | 800,867 | 11,313 | 52,867 | 4387 |
+| JavaScript | 181,198 | 5,493 | 11,879 | 1219 |
+| Yaml | 36,546 | 96 | 8,037 | 31 |
 
 ## Source
 
@@ -32,28 +32,28 @@ Total: **6,794,393** lines of code across **40808** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `v1.4.245` (2026-10-30)
-- **Last commit**: 2026-10-30
+- **Latest**: `mobile-android-v0.0.61` (2026-10-30)
+- **Last commit**: 2026-10-31
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 110,388 · **Forks**: 6,976 · **Open issues**: 9,533 · **Contributors**: 782
+- **Stars**: 111,256 · **Forks**: 7,039 · **Open issues**: 9,638 · **Contributors**: 792
 
 ## Totals (cumulative)
 
-- **Releases**: 993 · **Merged PRs**: 17019 · **Open PRs**: 3725 · **Closed issues**: 5357 · **Open issues**: 4176 · **Commits**: 18063
+- **Releases**: 994 · **Merged PRs**: 17209 · **Open PRs**: 3641 · **Closed issues**: 5466 · **Open issues**: 4172 · **Commits**: 18253
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 28 | 5759 | 1415 | 1255 | 1556 | 6838 |
-| last60d | 2026-08-31 | 53 | 8322 | 2308 | 2309 | 2548 | 9466 |
-| 90d | 2026-08-01 | 100 | 10247 | 3048 | 3316 | 3404 | 11703 |
-| last180d | 2026-05-03 | 100 | 15980 | 3722 | 5134 | 4170 | 20576 |
-| 360d | 2025-11-04 | 100 | 17018 | 3725 | 5357 | 4176 | 22451 |
-| last720d | 2024-11-09 | 100 | 17018 | 3725 | 5357 | 4176 | 18063 |
+| 30d | 2026-10-01 | 28 | 5855 | 1335 | 1293 | 1553 | 7047 |
+| last60d | 2026-09-01 | 52 | 8369 | 2233 | 2339 | 2545 | 9675 |
+| 90d | 2026-08-02 | 100 | 10398 | 2958 | 3395 | 3398 | 11912 |
+| last180d | 2026-05-04 | 100 | 16148 | 3638 | 5238 | 4165 | 20785 |
+| 360d | 2025-11-05 | 100 | 17208 | 3641 | 5466 | 4172 | 22660 |
+| last720d | 2024-11-10 | 100 | 17208 | 3641 | 5466 | 4172 | 18253 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for orca lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:19:33Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:05:48Z._
