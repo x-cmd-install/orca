@@ -1,0 +1,264 @@
+about:
+  description: "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime."
+  license: MIT
+  homepage: https://orca.dev
+  head: 3df184a
+  archived: false
+  latestVersion: "mobile-android-v0.0.65"
+  latestRelease: "v1.4.259"
+  latestPrerelease: "mobile-android-v0.0.65"
+  collectedAt: 2026-11-15T07:00:43Z
+timeline:
+  created: 2026-03-17
+  lastCommit: 2026-11-15
+  lastVersion: 2026-11-15
+  lastRelease: 2026-11-14
+  lastPrerelease: 2026-11-15
+popularity:
+  star: 125209
+  watcher: 159
+  fork: 7939
+  release: 1012
+  contributor: 921
+  pullRequest: 31104
+  issue: 11217
+language:
+  TypeScript: 151727198
+  JavaScript: 5342777
+  Swift: 472116
+  CSS: 257319
+  Python: 228999
+  PowerShell: 215267
+  Kotlin: 114141
+  HTML: 107787
+  Shell: 66353
+  C++: 35897
+  Rust: 21845
+  Ruby: 20476
+  C: 18296
+  Dockerfile: 14981
+  NSIS: 12566
+  Objective-C: 6104
+  C#: 3851
+  Java: 3372
+  Batchfile: 999
+  VBScript: 745
+totalBytes: 158671089
+recent:
+  last30d:
+    since: 2026-10-16
+    release: 38
+    mergedPR: 6601
+    openPR: 1283
+    closedIssue: 1294
+    openIssue: 1748
+    commit: 6570
+  last60d:
+    since: 2026-09-16
+    release: 60
+    mergedPR: 10424
+    openPR: 2224
+    closedIssue: 2690
+    openIssue: 2842
+    commit: 11599
+  last90d:
+    since: 2026-08-17
+    release: 82
+    mergedPR: 12665
+    openPR: 2894
+    closedIssue: 3754
+    openIssue: 3651
+    commit: 14195
+  last180d:
+    since: 2026-05-19
+    release: 100
+    mergedPR: 18748
+    openPR: 3743
+    closedIssue: 6137
+    openIssue: 4719
+    commit: 22945
+  last360d:
+    since: 2025-11-20
+    release: 100
+    mergedPR: 20536
+    openPR: 3757
+    closedIssue: 6483
+    openIssue: 4734
+    commit: 26451
+  last720d:
+    since: 2024-11-25
+    release: 100
+    mergedPR: 20536
+    openPR: 3757
+    closedIssue: 6483
+    openIssue: 4734
+    commit: 21579
+total:
+  release: 1012
+  mergedPR: 20542
+  openPR: 3757
+  closedIssue: 6483
+  openIssue: 4734
+  commit: 21579
+---
+path: /home/runner/.x-repo/github.com/stablyai/orca
+collectedAt: 2026-11-15T07:06:03Z
+loc:
+  TypeScript:
+    code: 3195563
+    comments: 126308
+    blanks: 224894
+    files: 29642
+  Tsx:
+    code: 533730
+    comments: 9521
+    blanks: 22696
+    files: 3585
+  Json:
+    code: 450607
+    comments: 0
+    blanks: 1
+    files: 604
+  JavaScript:
+    code: 136073
+    comments: 5021
+    blanks: 7888
+    files: 947
+  Yaml:
+    code: 36474
+    comments: 139
+    blanks: 7978
+    files: 37
+  Swift:
+    code: 10145
+    comments: 477
+    blanks: 998
+    files: 71
+  Css:
+    code: 8340
+    comments: 354
+    blanks: 1212
+    files: 19
+  Python:
+    code: 4533
+    comments: 101
+    blanks: 748
+    files: 18
+  PowerShell:
+    code: 3728
+    comments: 170
+    blanks: 223
+    files: 14
+  Kotlin:
+    code: 2350
+    comments: 217
+    blanks: 333
+    files: 31
+  Sh:
+    code: 1460
+    comments: 122
+    blanks: 189
+    files: 18
+  Html:
+    code: 929
+    comments: 6
+    blanks: 30
+    files: 16
+  Cpp:
+    code: 750
+    comments: 51
+    blanks: 79
+    files: 4
+  Rust:
+    code: 497
+    comments: 24
+    blanks: 52
+    files: 7
+  C:
+    code: 423
+    comments: 4
+    blanks: 28
+    files: 2
+  Sql:
+    code: 363
+    comments: 0
+    blanks: 0
+    files: 6
+  Dockerfile:
+    code: 276
+    comments: 11
+    blanks: 34
+    files: 11
+  Svg:
+    code: 205
+    comments: 7
+    blanks: 5
+    files: 9
+  ObjectiveC:
+    code: 143
+    comments: 2
+    blanks: 14
+    files: 3
+  Bash:
+    code: 129
+    comments: 7
+    blanks: 19
+    files: 3
+  Ruby:
+    code: 116
+    comments: 11
+    blanks: 29
+    files: 3
+  CSharp:
+    code: 114
+    comments: 0
+    blanks: 9
+    files: 1
+  Java:
+    code: 99
+    comments: 2
+    blanks: 14
+    files: 1
+  Toml:
+    code: 39
+    comments: 7
+    blanks: 8
+    files: 3
+  Batch:
+    code: 28
+    comments: 2
+    blanks: 4
+    files: 6
+  VBScript:
+    code: 20
+    comments: 0
+    blanks: 4
+    files: 1
+  Xml:
+    code: 11
+    comments: 2
+    blanks: 0
+    files: 4
+  CHeader:
+    code: 9
+    comments: 0
+    blanks: 5
+    files: 2
+  Markdown:
+    code: 0
+    comments: 12534
+    blanks: 3355
+    files: 156
+  Text:
+    code: 0
+    comments: 23351
+    blanks: 1925
+    files: 228
+total:
+  code: 4390271
+  comments: 178619
+  blanks: 272983
+  files: 35452
+---
+
+---
